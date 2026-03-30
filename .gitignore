@@ -1,0 +1,23 @@
+# Environments
+.env
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env_dir/
+
+# Streamlit config
+.streamlit/
+
+# Documents & Data (to prevent uploading personal CVs and output docs)
+data/
+*.docx
+*.pdf
+*.md
+!prompts/career_transition_logic.md

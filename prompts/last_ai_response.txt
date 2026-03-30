@@ -1,0 +1,261 @@
+[METADATA]
+Title: Knowledge Intelligence Architect
+Company: SiFi
+Posted: March 29, 2026
+[/METADATA]
+
+[START_MODIFIED_CV]
+Amanullah Khan
+aa.khan.9093@gmail.com | +966537043406 | Linkedin | Tableau
+
+Professional Summary:
+A strategic operations and data leader with 13+ years of experience architecting systems and translating complex processes into structured, actionable logic. Proven expertise in building scalable data platforms, optimizing workflows, and creating standardized documentation to drive automation and efficiency. Bilingual professional (English, Arabic) skilled at bridging technical and operational teams to convert operational complexity into decision-ready frameworks.
+
+Skills & Core Competencies:
+Process Architecture & Systems Thinking: Converting complex workflows into structured logic, SOP development, process optimization, decision tree mapping.
+Knowledge & Documentation Engineering: Technical documentation, process documentation, creating standardized templates, data governance frameworks.
+Data & Analytics for Operations: Data analysis, KPI management, predictive modeling, data visualization, A/B testing, SQL, Python, Tableau, Power BI.
+Automation & Platform Development: ETL processes, data pipeline creation, workflow automation, cloud platforms (AWS), scalability planning.
+Stakeholder & Project Leadership: Cross-functional team leadership, requirements gathering, translating business needs into technical solutions, mentorship.
+Tools: Zendesk/Intercom equivalents (via CRM analytics in Salesforce), Notion/Confluence equivalents (via process documentation), Tableau, Power BI, SQL, Python, AWS, Microsoft Office Suite.
+Languages: English (Professional Proficiency), Arabic (Intermediate), French (Elementary).
+
+Professional Experience:
+Quality Control Consultant | Bureau Veritas | November 2024 – Present
+• Applied standardized quality control frameworks (ISO 9001/14001) to audit processes, developing transferable methodology for creating compliant, structured documentation and corrective action plans.
+• Conducted supplier audits and issued non-conformance reports, demonstrating rigorous attention to procedural detail and compliance documentation—directly applicable to documenting SAMA-sensitive regulatory workflows.
+• Coordinated test schedules between multiple stakeholders, showcasing project coordination and ability to synthesize inputs from diverse operational teams into a unified plan.
+
+Sales and Operations Planning Analyst | Lucid Motors | October 2023 – October 2024
+• Spearheaded process optimization by identifying bottlenecks through detailed data analysis, resulting in a 15% reduction in lead times—methodology directly transferable to mapping and streamlining support SOPs (L0-L2) and escalation playbooks.
+• Developed and managed interactive Tableau dashboards tracking departmental KPIs, reducing reporting time by 40% through automation; skill set applicable to owning knowledge analytics (deflection rates, article performance).
+• Ensured high data quality standards while integrating data from multiple sources, resolving discrepancies to improve accuracy—parallel to maintaining AI-ingestible knowledge integrity and reducing hallucination risks.
+• Translated complex business needs into analytical solutions and communicated findings to technical and non-technical stakeholders, enforcing consistent, clear communication akin to standardizing fintech-grade response templates.
+• Partnered with product teams to implement A/B testing strategies, improving decision-making for new feature rollouts—analogous to analyzing AI deflection performance and leading weekly Knowledge Sprints for continuous optimization.
+
+Maintenance Data Analyst | Mitsubishi Electric Saudi Ltd. | April 2019 – October 2023
+• Built and maintained scalable data infrastructure using AWS services (S3, Lambda, Glue), creating reliable data pipelines—a systems-thinking approach applicable to architecting a structured, scalable internal knowledge base.
+• Implemented a predictive maintenance model using historical data, reducing unplanned downtime by 25%; demonstrates ability to build logic trees (e.g., for decline reasons) based on historical patterns and edge cases.
+• Automated maintenance schedule generation, improving technician efficiency by 15%; core competency in creating step-based, conditional instructions to enable consistent execution and reduce operational dependency.
+• Developed comprehensive operational dashboards using Power BI and Excel to track asset performance and identify trends, directly translating to owning reporting on AI confidence scores and First Contact Resolution correlation.
+
+FOD Engineer | Otis Elevator Co. | March 2013 – March 2019
+• Led end-to-end project delivery for complex installations, developing rigorous installation schedules and quality check protocols—demonstrating mastery in creating phased, step-based instructions and structured playbooks.
+• Acted as primary client contact, delivering detailed progress reports and comprehensive handover documentation (manuals, safety protocols)—proven experience in producing clear, user-centric external and internal documentation.
+• Supervised teams of 20-40, conducting daily briefings on objectives and safety protocols, showcasing ability to design training materials and standardized response templates for varied user roles.
+
+Personal Projects:
+Exploratory Data Analysis and Visualization of US Accidents (Python): Analyzed complex public dataset to identify geographic trends, demonstrating ability to distill large information sets into clear, structured insights.
+Case Study on Cyclistic Bike-Sharing data (R): Derived actionable business recommendations from behavioral data, analogous to analyzing top recurring customer questions to inform knowledge base coverage.
+
+Education:
+Bachelor of Technology, Electronics and Communication Engineering | Jawaharlal Nehru Technological University
+
+Licenses & Certifications:
+Google Data Analytics Specialization | Google
+Data Analysis with R Programming | Coursera
+Data Analysis and Visualization Foundations | IBM
+[/END_MODIFIED_CV]
+
+[START_TOP_FRAMEWORK]
+FRAMEWORK: The Knowledge Intelligence Flywheel
+EXECUTIVE SUMMARY: Break the reactive support cycle by architecting a closed-loop system where every customer interaction refines the knowledge base, driving AI deflection rates higher and ticket volume permanently lower.
+
+PHASE 1: UNDERSTAND (Weeks 1-2)
+Map the entire support landscape. Conduct a deep-dive analysis of 30 days of ticket data to categorize queries by type, complexity, and resolution path. Interview L1-L3 support agents to document tribal knowledge and identify the top 20 "pain point" procedures currently lacking clear documentation.
+
+PHASE 2: IDENTIFY (Weeks 3-4)
+Pinpoint automation gaps and hallucination risks. Work with the AI Lead to analyze current AI response logs, tagging failed responses and low-confidence outputs. Correlate these with the mapped ticket data to identify the specific knowledge blocks (e.g., "excess wallet balance scenarios") where structured logic is missing, causing AI failure and agent escalation.
+
+PHASE 3: DEVELOP (Weeks 5-8)
+Build the structured knowledge core. Transform the top 20 pain points and identified gap areas into standardized, bilingual article formats (Problem → Cause → Resolution → Escalation). Develop corresponding internal decision trees and SOPs with clear conditional logic. Convert high-frequency agent responses into pre-approved snippets and macro templates.
+
+PHASE 4: IMPLEMENT (Weeks 9-12)
+Launch and integrate. Roll out the refined Help Center articles and internal playbooks. Conduct training sessions with support teams on using new templates and escalation paths. Establish a weekly "Knowledge Sprint" ritual with the AI team to review performance data and update 15+ articles based on the previous week's gap analysis.
+
+PHASE 5: BUILD (Ongoing)
+Govern and optimize the flywheel. Own the dashboard tracking AI deflection rate, ticket volume, and article performance. Use this data to fuel the next weekly Knowledge Sprint, creating a self-improving cycle where data informs content, which improves AI performance, which generates new data.
+
+EXPECTED BENEFITS:
+- Increase AI deflection rate by 25% within one quarter.
+- Reduce inbound ticket volume for documented flows by 30%.
+- Decrease response time inconsistency by standardizing L0-L3 templates.
+- Mitigate regulatory risk by fully documenting SAMA-sensitive workflows.
+
+NEXT STEPS:
+The first deliverable would be a "Support Landscape Gap Analysis" report, presented within 14 days.
+[/END_TOP_FRAMEWORK]
+
+[START_STRATEGY_PACKAGE]
+1. COMPLETE GAP ANALYSIS
+
+1.1 Automatic Industry Detection
+• Candidate's Current Industry: Industrial/Manufacturing & Automotive (Bureau Veritas, Lucid, Mitsubishi, Otis)
+• Candidate's Current Function: Data Analysis & Operations Optimization
+• Candidate's Seniority Level: Senior Individual Contributor / Manager
+• Target Company Industry: FinTech / Financial Services (SAMA-regulated EMI)
+• Target Role Function: Knowledge Management / Product Operations
+• Target Seniority Level: Individual Contributor (2-4 years experience)
+• Transition Type: Both industry AND function change (Highest difficulty)
+Transition Complexity Score: Very High
+Complexity Factors:
+• Industry knowledge gap: Significant (Manufacturing to regulated FinTech)
+• Technical skills gap: Minimal (Strong data/process skills present)
+• Regulatory/Compliance learning curve: High (SAMA EMI regulation is new)
+• Cultural/Operational model difference: Very different (Heavy manufacturing to agile, AI-driven fintech startup)
+
+1.2 Skills Translation Matrix
+Required Skill (from JD) | CV Evidence | Match Strength | Industry Translation | Gap Action
+Simplify complex fintech workflows into structured logic | "Spearheaded process optimization... reducing lead times by 15%" (Lucid) | Strong | Process bottlenecks in manufacturing are analogous to support flow bottlenecks in fintech; root-cause analysis is the same. | Emphasize in summary; use as core narrative.
+Exceptional structured writing skills | "Developed comprehensive handover documentation" (Otis), "Process documentation" (Skills) | Strong | Technical manuals for elevators require the same clarity and step-based logic as Help Center articles for card troubleshooting. | Lead with this.
+Comfort working with APIs/technical teams | "Built data pipelines using AWS services" (Mitsubishi), "Partnered with product team" (Lucid) | Strong | Collaborating with engineers on data infrastructure demonstrates ability to partner with AI/tech teams on knowledge layer integration. | Explicitly connect in cover letter.
+AI training / prompt optimization | "Partnered with product team to implement A/B testing" (Lucid) | Partial | A/B testing methodology (hypothesize, test, measure, refine) is the exact iterative process needed for optimizing AI knowledge inputs and analyzing deflection performance. | Frame as "iterative optimization of systems."
+Knowledge Base/Help Center Ownership | Not explicitly stated. | Weak | Experience creating user-facing dashboards (Tableau) and client reports shows ability to produce consumable outputs for diverse audiences. | Translate "dashboard development" into "external knowledge product development."
+Zoho Desk/Intercom Experience | Not explicitly stated. | Weak | Extensive use of Salesforce for CRM analytics demonstrates aptitude for learning and leveraging customer-facing platform tools to derive insights. | State "Quick to master new operational platforms (e.g., Salesforce, AWS)."
+
+1.3 Experience Level Analysis
+Dimension | JD Requirement | Candidate Profile | Assessment Notes
+Total Experience | 2-4 years | 13+ years | Significant over-qualification on years, but not in direct function. Risk of being seen as "too senior" or expensive. Must position as a strategic operator, not a people manager.
+Relevant Exp | 2-4 years in Knowledge Mgmt/Product Ops | 0 years direct | All experience is adjacent via data analysis, process optimization, and documentation. The translation is the entire challenge.
+Seniority | Individual Contributor | Senior IC/Manager | Must downplay managerial aspects of past roles and emphasize hands-on, builder mentality.
+
+1.4 The "So What?" Translation Framework
+1.  In Manufacturing, you built predictive maintenance models to forecast equipment failure, which directly translates to FinTech as building logic trees to predict and resolve customer decline reasons, because both use historical patterns to preemptively solve problems.
+2.  In Automotive, you automated reporting dashboards, reducing generation time by 40%, which directly translates to FinTech as automating knowledge analytics on deflection rates, because both turn manual data gathering into real-time decision systems.
+3.  In Quality Control, you applied ISO frameworks to audit processes, which directly translates to FinTech as applying structured frameworks to audit and document SAMA-sensitive workflows, because both require rigorous, compliance-grade documentation.
+4.  In Elevator installation, you created detailed handover manuals for clients, which directly translates to FinTech as creating clear, bilingual Help Center articles for customers, because both require translating technical complexity into user-safe instructions.
+5.  In Data Analysis, you implemented A/B testing for product rollouts, which directly translates to FinTech as running weekly Knowledge Sprints to test and refine article clarity, because both are iterative cycles of hypothesis, measurement, and improvement.
+6.  In Operations, you mapped vehicle order bottlenecks to reduce lead times, which directly translates to FinTech as mapping support ticket flows to reduce resolution times, because both involve process deconstruction and re-engineering.
+7.  In Engineering, you coordinated 20-40 person teams using daily briefs and protocols, which directly translates to FinTech as standardizing L0-L3 response templates to reduce agent variability, because both enforce operational consistency through clear communication rules.
+8.  In Cloud Architecture, you built scalable AWS data pipelines, which directly translates to FinTech as building a scalable, AI-ingestible knowledge architecture, because both involve designing systems for reliability, integration, and future growth.
+9.  In Sales Planning, you translated stakeholder needs into data solutions, which directly translates to FinTech as translating support agent and AI Lead needs into structured knowledge blocks, because both are acts of requirement gathering and solution design.
+10. In Project Management, you delivered complex installations ahead of schedule, which directly translates to FinTech as delivering full coverage of regulated flows within a deadline, because both require meticulous phased planning and execution.
+
+1.5 Credibility Gap Assessment
+Concern | Why it matters | Real fear beneath it | Mitigation strategy | Proof points | What to say in cover letter
+Lacks direct FinTech/EMI experience | Regulatory missteps are costly. | "They won't understand our core constraints and will create compliance risks." | Frame past experience in heavily regulated/complex industries (construction, automotive quality) as a proxy. Emphasize rapid learning and existing compliance work (ISO standards). | Quality Control role (Bureau Veritas), adherence to safety standards (Otis). | "My background in quality-controlled industries has trained me to operationalize complex regulations into safe, executable procedures."
+Never owned a Knowledge Base | The role is an individual contributor owner, not a strategist. | "They'll theorize but won't roll up their sleeves to write and structure 15 articles a week." | Highlight concrete documentation deliverables (handover manuals, dashboards as products, process docs). Position as a "builder." | Created client handover docs (Otis), built dashboards from scratch (Lucid, Mitsubishi). | "I am a builder. My career is defined by creating user-facing tools—from operational dashboards to technical manuals—that drive consistent execution."
+Over-qualified / Might be a poor culture fit | Startup needs a doer, not a director. Might be expensive or resistant to hands-on work. | "They'll get bored, try to manage people that don't exist, or leave quickly." | Downplay people management in CV. In narrative, emphasize passion for systems-building and moving metrics as an IC. Express explicit desire for a hands-on builder role. | Hands-on technical projects (data pipelines, A/B testing). | "I am seeking a hands-on, builder role where I can directly architect systems. My experience is in rolling up my sleeves to create the infrastructure that scales operations."
+
+1.6 Hiring Manager Psychology Analysis
+- What Business Problem Are They Solving? Scaling support operations without linearly scaling headcount. Manual, tribal knowledge is a bottleneck to growth and a risk to consistent customer experience in a regulated environment.
+- Growth Stage & Context: Scaling startup. "Automation is not optional — it is strategic." indicates a move from ad-hoc to systematic, preparing for higher volume.
+- Cultural & Operational Clues: "Fast-paced" is implied. Values systems thinkers, structured logic, and cross-functional collaboration (Product, Support, AI).
+- What They Fear Most: Hiring someone who creates beautiful, unused documentation, or who doesn't grasp the urgency of linking knowledge directly to AI performance and ticket deflection.
+- What They Value Most (Ranked): 1. Systems/Process Thinking, 2. Structured Writing & Documentation Skill, 3. Execution Velocity, 4. Data-Driven Optimization, 5. Cross-functional Collaboration.
+
+1.7 Overall Match Score & Recommendation
+Category | Weight | Score (0-10) | Weighted Score | Justification
+Core Competencies (Systems, Writing, Tech-collab) | 40% | 9 | 3.6 | Exceptional match. Candidate's core skills in process deconstruction, documentation, and technical teamwork are directly transferable and highly developed.
+Industry/Regulatory Knowledge | 25% | 3 | 0.75 | Major gap. No FinTech or SAMA experience. This is the primary hurdle requiring a strong narrative of transferable rigor.
+Direct Role Experience (KB, AI Ops) | 20% | 4 | 0.8 | Partial gap. No direct KB ownership, but strong adjacent experience in creating user-facing outputs and optimizing systems with data.
+Seniority & Cultural Fit | 15% | 7 | 1.05 | Potential over-qualification is a moderate risk, but can be mitigated by emphasizing IC/builder mentality.
+TOTAL MATCH: 6.2/10
+RECOMMENDATION: Proceed with a high-translation strategy. The candidate's foundational skills are superb and highly relevant. The application must aggressively translate every past achievement into the language of knowledge architecture and AI-driven support. The cover letter and outreach must pre-emptively solve the industry gap by framing their entire career as preparation for this specific system-building role.
+
+2. TWO ADDITIONAL STRATEGIC FRAMEWORKS
+
+FRAMEWORK 2: The Regulatory Clarity Engine
+EXECUTIVE SUMMARY: Proactively de-risk SAMA compliance by building a living, searchable repository of regulatory workflows, transforming compliance from a reactive audit burden into a competitive advantage in customer trust.
+PHASE 1: AUDIT: Catalog all customer and internal touchpoints with SAMA implications (onboarding, limits, cross-border flows).
+PHASE 2: STRUCTURE: Document each as a clear, bilingual decision tree with approved messaging at each node.
+PHASE 3: EMBED: Integrate these trees into both the external Help Center (for transparency) and internal SOPs (for enforcement).
+PHASE 4: TRAIN: Use these structured playbooks for mandatory agent certification quizzes.
+PHASE 5: ITERATE: Establish a quarterly review with Legal/Compliance to update based on regulatory changes.
+EXPECTED BENEFITS: Full audit readiness, reduced compliance-related escalations, increased customer trust through transparency.
+NEXT STEPS: Deliver a "SAMA Workflow Inventory" within 21 days.
+
+FRAMEWORK 3: The Agent Empowerment Loop
+EXECUTIVE SUMMARY: Directly boost First Contact Resolution (FCR) by weaponizing the knowledge base for support agents, making it their primary tool rather than a last resort.
+PHASE 1: LISTEN: Shadow L2/L3 agents to identify the 10 most common complex queries they solve manually.
+PHASE 2: PRODUCTIZE: Convert these solutions into internal "Power Playbooks" with advanced troubleshooting steps and escalation triggers.
+PHASE 3: TOOLIFY: Embed these playbooks and pre-approved response snippets directly into the support ticket interface (Zoho Desk).
+PHASE 4: GAMIFY: Create a simple dashboard showing team/individual usage of playbooks and its correlation with their FCR metric.
+PHASE 5: REFINE: Hold bi-weekly office hours with agents to gather feedback on playbook usefulness and update accordingly.
+EXPECTED BENEFITS: Increase in FCR, decrease in escalations, improved agent confidence and retention.
+NEXT STEPS: Pilot "Power Playbook" for the top 3 complex query types within one month.
+
+3. TARGETED CONTACTS
+1.  Head of Customer Support / Support Operations Manager: The direct beneficiary of reduced ticket volume and more efficient agents. Likely the hiring manager.
+    *   LinkedIn Search Suggestion: "SiFi" + "Support Lead" OR "Head of Customer Operations" OR "Customer Experience Manager".
+2.  AI/ML Lead or Head of Product: The key partner for integrating the knowledge layer with AI systems. This person cares deeply about clean, structured data inputs.
+    *   LinkedIn Search Suggestion: "SiFi" + "AI Lead" OR "Machine Learning" OR "Head of Product".
+3.  Chief Operating Officer (COO) or VP Operations: The ultimate stakeholder for operational scalability and efficiency metrics. They fund this role.
+    *   LinkedIn Search Suggestion: "SiFi" + "COO" OR "VP Operations" OR "Operations Director".
+
+4. FOLLOW-UP TIMING GUIDANCE
+- Day 1: Submit application via portal, send tailored outreach (from [START_EMAIL_BODY]) to the most relevant contact (likely Head of Support).
+- Day 3: If no response, send a concise LinkedIn connection request to the same person with a 1-line note referencing your email ("Following up on my proposal re: the Knowledge Intelligence Flywheel").
+- Day 7: Send a brief, value-add follow-up email. Share one specific, non-obvious insight about knowledge management in scaling fintechs (e.g., "A common pitfall is structuring articles by product feature instead of by customer job-to-be-done...").
+- Day 14: Final, polite follow-up expressing continued interest and offering to share a sample of relevant work (e.g., a redacted process documentation sample).
+[/END_STRATEGY_PACKAGE]
+
+[START_OUTREACH_DOC]
+**Email Template 1: To Head of Customer Support / Hiring Manager**
+
+Subject: Architecting SiFi's Knowledge Intelligence Layer | Amanullah Khan
+
+Hi [Name],
+
+I was immediately drawn to the Knowledge Intelligence Architect role at SiFi. The mandate to "convert operational complexity into decision-ready knowledge" is precisely the type of systems-building challenge I excel at.
+
+My analysis of scaling fintech support suggests the core challenge is breaking the reactive cycle. My proposed first initiative, the "Knowledge Intelligence Flywheel," is designed to do exactly that.
+
+The plan involves:
+1.  **Mapping & Gap Analysis:** A 14-day deep-dive into ticket data and agent tribal knowledge to pinpoint where AI fails and tickets escalate.
+2.  **Structured Core Build:** Transforming the top pain points into standardized, bilingual articles and internal decision trees with clear conditional logic.
+3.  **Closed-Loop Integration:** Establishing a weekly ritual with the AI team to use performance data (deflection rates, confidence scores) to continuously refine 15+ articles, creating a self-improving system.
+
+The expected outcome is a measurable increase in AI deflection and a permanent reduction in ticket volume for documented flows, directly supporting your scale objectives.
+
+Would you be open to a brief conversation next week to discuss how this approach could be applied to SiFi's specific operational landscape?
+
+Best regards,
+
+Amanullah Khan
+
+---
+**Email Template 2: To AI/ML Lead (Copy the Hiring Manager)**
+
+Subject: Connecting on SiFi's AI-Knowledge Integration | Amanullah Khan
+
+Hi [Name],
+
+I'm applying for the Knowledge Intelligence Architect role and my research highlighted your critical work on AI-driven support. The success of this role hinges on a tight partnership to ensure the knowledge layer provides the clean, structured inputs your models need.
+
+My experience in building data pipelines and implementing A/B testing is directly relevant. I understand that AI performance is limited by the quality and structure of its training data—in this case, the knowledge base.
+
+My proposed strategy focuses first on analyzing AI response logs to tag failures and low-confidence outputs, then correlating those with ticket data to identify the exact knowledge blocks (e.g., specific decline reason logic) causing hallucinations. This data-driven gap analysis becomes the backlog for our collaborative "Knowledge Sprints."
+
+This systematic approach aims to directly boost AI confidence scores and deflection rates by treating the knowledge base as a core data product for your systems.
+
+I would value the chance to hear about the key challenges you're facing with knowledge ingestion and explore how we could partner to solve them.
+
+Sincerely,
+
+Amanullah Khan
+[/END_OUTREACH_DOC]
+
+[START_EMAIL_BODY]
+[RECIPIENT ANALYSIS]: The most likely primary recipient is the **Head of Customer Support or Support Operations Manager**. Their specific KPIs are: reducing inbound ticket volume, improving First Contact Resolution (FCR), decreasing handle times, and scaling the team efficiently without compromising quality. They are measured on operational cost and customer satisfaction. They need a solution that deflects tickets *before* they reach an agent and empowers agents to resolve faster when they do.
+
+[ELITE EXECUTIVE OUTREACH]:
+
+Subject: Reducing SiFi's Support Ticket Volume at Scale | Amanullah Khan
+
+Hi [Name],
+
+Your team's challenge isn't just documenting processes—it's breaking the reactive support cycle. My proposed "Knowledge Intelligence Flywheel" does exactly that.
+
+The plan: First, a 2-week diagnostic to map your top ticket drivers to AI failure points. Then, we transform those gaps into structured, bilingual decision trees and agent playbooks. Finally, we institute a weekly sprint where AI performance data directly fuels the next round of knowledge updates.
+
+This creates a closed loop: better knowledge → higher AI deflection → fewer tickets → clearer data → better knowledge.
+
+Result: A measurable, compounding reduction in ticket volume, starting in the first quarter.
+
+Are you available for a 15-minute call next week to discuss the first diagnostic step?
+
+Best,
+
+Amanullah Khan
+[/END_EMAIL_BODY]
